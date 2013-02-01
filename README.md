@@ -1,7 +1,5 @@
 GitHub-API-Tests
 ================
 
-FOOBAR :)
+FOOFOO :)
 
-
-BARFOO :)
